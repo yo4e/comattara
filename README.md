@@ -75,6 +75,7 @@
 まず10件の困りごとについて、人間が確認した「相談先」「使える可能性のある制度」「今日やること」「一次情報源」「確認日」を整理しています。
 
 - [最初の10ケース](cases/README.md)
+- [広告・アフィリエイトの扱い](docs/affiliate-policy.md)
 - [Issue #1](https://github.com/yo4e/comattara/issues/1)
 
 このデータを、将来の入力 → 案内フロー、検索、UI、AI案内の評価基準にします。
